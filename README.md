@@ -2,6 +2,4 @@
 
 Open  
 **-Edge_Cuts.dxf,  
-**-F_Paste.dxf  
-or  
-**-B_Paste.dxf  
+**-F_Paste.dxf or **-B_Paste.dxf  
