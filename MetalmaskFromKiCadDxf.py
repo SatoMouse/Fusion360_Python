@@ -2,8 +2,8 @@ import adsk.core, adsk.fusion, traceback, math
 
 def run(context):
   ui = None
-  MetalMaskMin = 100
-  MetalMaskMax = 150
+  MetalMaskMin = 100 #[mm]
+  MetalMaskMax = 150 #[mm]
   try:
     app = adsk.core.Application.get()
     ui  = app.userInterface
